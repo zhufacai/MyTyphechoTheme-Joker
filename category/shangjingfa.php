@@ -1,0 +1,1 @@
+<?php $this->need('/category/note.php'); ?>

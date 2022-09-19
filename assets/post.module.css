@@ -1,0 +1,14 @@
+.title {
+  padding: 0 2em 0.5em 0;
+  line-height: 1.8;
+  border-bottom: 1px solid rgba(239, 239, 239, 0.8);
+}
+
+.post {
+  margin-top: 1em;
+}
+
+
+
+// WEBPACK FOOTER //
+// ./src/views/blog/post.module.css
